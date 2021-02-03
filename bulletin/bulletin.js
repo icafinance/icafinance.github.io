@@ -1,29 +1,29 @@
 export default{
-	"zh": `Internal Combustion Agreement
-内燃协议的共识者您好：
-经过短时间分散的传播，ICA取得了初步的共识；为更好的社群推动，迎接2021DEFI生态的大爆发，现做如下利好调整：
+	"zh": `ICA内燃协议的粉丝您好：
 
-原V级内燃催化剂10万ICA，降低为5万ICA；并且在未来推动中，根据全球共识情况可能继续调整内燃节点门智能。
+随着ICA的诞生，整体推进完全源于自发的布道，这也贴合ICA的初衷；随着全球最大市场中国区进入春节，布道速度暂时有降低的情况，分红池可分红数量降低，这是一个好的现象，因为ICA的发展完全取决于市场，在新年来临之际特做出如下调整：
 
-原持仓10万ICA帐户：可分仓多账户以利益最大化，后续爆发筹码会很重要；当然也可以流通于市场，请您自行重置择。
+1、V1级别可分红数量低于20 ICA将暂停分红，若可分红数量高于20 ICA将自动恢复分红。
+2、待新年伊始，技术团队将所有资源去利好于市场推动。
 
-注：ICA初创团队致力于一个全新的商业循环试验模型，不会过多干预和破坏市场的正常发展，祝您收获财富。`,
-	"en": `Internal Combustion Agreement
-Hello, Consensus of Internal Combustion Agreement:
-After a short period of scattered dissemination, ICA has reached a preliminary consensus; in order to promote a better community and welcome the 2021 DEFI ecological explosion, the following favorable adjustments are now made:
+注：此调整是根据市场情况而做出，大家切莫错误解读，智能合约一切正常，其他奖励正常执行；ICA的价值还远远被低估，技术团队非常珍惜筹码，未在市场卖出一枚ICA。
+在此恭祝大家新年快乐，收获财富。`,
+	"en": `Hello fans of ICA Internal Combustion Agreement:
 
-The original V-class internal combustion catalyst has 100,000 ICA, which is reduced to 50,000 ICA; and in the future, it may continue to adjust the internal combustion node door intelligence based on global consensus.
+With the birth of ICA, the overall advancement is entirely derived from spontaneous preaching, which is also in line with the original intention of ICA; as the world’s largest market China enters the Spring Festival, the preaching speed is temporarily reduced, and the number of dividends in the bonus pool is reduced. A good phenomenon, because the development of ICA completely depends on the market, the following adjustments are made when the new year is approaching:
 
-ICA account with 100,000 original positions: you can split multiple accounts to maximize benefits. The subsequent burst of chips will be very important; of course, it can also be circulated in the market. Please reset it yourself.
+1. If the amount of dividends available for V1 level is less than 20, ICA will suspend dividends, and if the amount of dividends available is higher than 20, ICA will automatically resume dividends.
+2. At the beginning of the new year, the technical team will use all resources to benefit the market.
 
-Note: The ICA start-up team is committed to a brand-new business cycle test model that will not interfere too much and disrupt the normal development of the market. I wish you wealth.`,
-	"zh_TW": `Internal Combustion Agreement
-內燃協議的共識者您好：
-經過短時間分佈式的傳播，ICA取得了初步的共識；為更好的社群推動，迎接2021DEFI生態的大爆發，現做如下利好調整：
+Note: This adjustment is made based on market conditions. Don’t misinterpret it. Smart contracts are all normal and other rewards are executed normally. The value of ICA is still far underestimated. The technical team cherishes the bargaining chips very much and has not sold one in the market. ICA.
+I wish you all a happy new year and harvest wealth.`,
+	"zh_TW": `ICA內燃協議的粉絲您好：
 
-原V級內燃節點10萬ICA，降低為5萬ICA；且在未來推動中，根據全球共識情況可能繼續調整內燃節點門檻。
+隨著ICA的誕生，整體推進完全源於自發的佈道，這也貼合ICA的初衷；隨著全球最大市場中國區進入春節，佈道速度暫時有降低的情況，分紅池可分紅數量降低，這是一個好的現象，因為ICA的發展完全取決於市場，在新年來臨之際特做出如下調整：
 
-原持倉10萬ICA賬戶：可分倉多賬戶以利益最大化，後續爆發籌碼會很重要；當然亦可流通於市場，請您自行抉擇。
+1、V1級別可分紅數量低於20 ICA將暫停分紅，若可分紅數量高於20 ICA將自動恢復分紅。
+2、待新年伊始，技術團隊將所有資源去利好於市場推動。
 
-註：ICA初創團隊致力於一個全新的商業循環試驗模型，不會過多干預和破壞市場的正常發展，祝您收穫財富。`,
+註：此調整是根據市場情況而做出，大家切莫錯誤解讀，智能合約一切正常，其他獎勵正常執行；ICA的價值還遠遠被低估，技術團隊非常珍惜籌碼，未在市場賣出一枚ICA。
+在此恭祝大家新年快樂，收穫財富。`,
 }
